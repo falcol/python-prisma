@@ -42,7 +42,7 @@ prisma db push
 ## Start server
 
 ```sh
-uvicorn main:app --reload
+python main.py
 ```
 
 ## Notes
